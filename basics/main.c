@@ -24,4 +24,8 @@ int main()
     mynumber = 10;
     mynumber2 = 20;
     print(add(mynumber, mynumber2));
+
+    char* mystring = "Hello World";
+
+    printf("%c\n", mystring[1]);
 }
