@@ -17,7 +17,7 @@ int main()
     {
         printf("%d\n", mylist[i]);
     }
-    */
+    
 
     print(10);
     int mynumber, mynumber2;
@@ -28,4 +28,8 @@ int main()
     char* mystring = "Hello World";
 
     printf("%c\n", mystring[1]);
+
+    */
+
+    print_chars('Z');
 }

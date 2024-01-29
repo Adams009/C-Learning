@@ -5,5 +5,6 @@
 #include <stdio.h>
 int add(int a, int b);
 void print(int num);
+void print_chars(char start);
 
 #endif
